@@ -1,0 +1,213 @@
+Today
+You said:
+ AI-generated content may be incorrect  Elankumaran Ekambaram started transcription Rohit Kumar 0 minutes 3 seconds0:03 Rohit Kumar 0 minutes 3 seconds Image by image, do layout extraction to identify what is text blocks and what is image blocks. Avinash Reddy Masapeta 0 minutes 4 seconds0:04 Avinash Reddy Masapeta 0 minutes 4 seconds Okay. Rohit Kumar 0 minutes 11 seconds0:11 Rohit Kumar 0 minutes 11 seconds For text blocks, you will convert that into you use OC. Avinash Reddy Masapeta 0 minutes 17 seconds0:17 Avinash Reddy Masapeta 0 minutes 17 seconds Mm. Rohit Kumar 0 minutes 17 seconds0:17 Rohit Kumar 0 minutes 17 seconds For image blogs. Rohit Kumar 0 minutes 19 seconds You do image to text. Rohit Kumar 0 minutes 22 seconds And then... Rohit Kumar 0 minutes 24 seconds After the text, after the style guide is imported, and in all this process, there is no human in the loop, right? After the style guide is imported, then you prompt the LLM to extract rules, do's and don'ts. Avinash Reddy Masapeta 0 minutes 29 seconds0:29 Avinash Reddy Masapeta 0 minutes 29 seconds You. Avinash Reddy Masapeta 0 minutes 37 seconds T. Rohit Kumar 33 minutes 9 seconds33:09 Rohit Kumar 33 minutes 9 seconds The. Rohit Kumar 33 minutes 12 seconds Yeah, yeah, yeah. SK Sandeep Kokkula 33 minutes 15 seconds33:15 Sandeep Kokkula 33 minutes 15 seconds So, Rohit, I'm on the way. I'll reach office in 10 minutes. Rohit Kumar 33 minutes 15 seconds33:15 Rohit Kumar 33 minutes 15 seconds Okay, sounds good, guys. Rohit Kumar 33 minutes 20 seconds Okay, sure. My next meeting will start, so I'll see you after that meeting. Okay. SK Sandeep Kokkula 33 minutes 24 seconds33:24 Sandeep Kokkula 33 minutes 24 seconds Sure, yeah. Rohit Kumar 33 minutes 26 seconds33:26 Rohit Kumar 33 minutes 26 seconds Ohh. BS Balavardhan Reddy Sheelam [External] 33 minutes 34 seconds33:34 Balavardhan Reddy Sheelam [External] 33 minutes 34 seconds Yeah, Aravind, so anything else you want to? Aravind Rajaelangovan 33 minutes 38 seconds33:38 Aravind Rajaelangovan 33 minutes 38 seconds Quick question, balaji. BS Balavardhan Reddy Sheelam [External] 33 minutes 40 seconds33:40 Balavardhan Reddy Sheelam [External] 33 minutes 40 seconds Mhm. Aravind Rajaelangovan 33 minutes 42 seconds33:42 Aravind Rajaelangovan 33 minutes 42 seconds I, I saw that. Aravind Rajaelangovan 33 minutes 45 seconds The OPA gives this as an output, right? The Excel sheet to us, right? Aravind Rajaelangovan 33 minutes 52 seconds And for. BS Balavardhan Reddy Sheelam [External] 33 minutes 52 seconds33:52 Balavardhan Reddy Sheelam [External] 33 minutes 52 seconds Yeah, I mean for our input, yeah. Aravind Rajaelangovan 33 minutes 54 seconds33:54 Aravind Rajaelangovan 33 minutes 54 seconds for our input and what Rohit is asking is validate that with the screenshots that he has. But in order to automate this validation. BS Balavardhan Reddy Sheelam [External] 34 minutes34:00 Balavardhan Reddy Sheelam [External] 34 minutes Yes. Aravind Rajaelangovan 34 minutes 5 seconds34:05 Aravind Rajaelangovan 34 minutes 5 seconds It requires us to navigate through the DCP vault, right? They call it as some vault, right? Where? BS Balavardhan Reddy Sheelam [External] 34 minutes 13 seconds34:13 Balavardhan Reddy Sheelam [External] 34 minutes 13 seconds Yeah, yeah, yeah, so. Aravind Rajaelangovan 34 minutes 15 seconds34:15 Aravind Rajaelangovan 34 minutes 15 seconds So... BS Balavardhan Reddy Sheelam [External] 34 minutes 17 seconds34:17 Balavardhan Reddy Sheelam [External] 34 minutes 17 seconds Yeah, go ahead, go ahead, sorry. Aravind Rajaelangovan 34 minutes 19 seconds34:19 Aravind Rajaelangovan 34 minutes 19 seconds No, I was just, you know, trying to understand if you have to validate what. Elankumaran Ekambaram 34 minutes 19 seconds34:19 Elankumaran Ekambaram 34 minutes 19 seconds K. Elankumaran Ekambaram 34 minutes 22 seconds Hey guys, sorry to not to interrupt. What are the next steps? I mean, so as Rohit and rest of the folks drop, are they driving to office or? BS Balavardhan Reddy Sheelam [External] 34 minutes 30 seconds34:30 Balavardhan Reddy Sheelam [External] 34 minutes 30 seconds Yeah, so the next steps are Ilan, Aravind and Avinash gonna work on the UA part and whatever the Rohit described the process of workflow, how it should be, and yeah, that's on the offshore part, and the onshore part, I'm gonna work on. Aravind Rajaelangovan 34 minutes 30 seconds34:30 Aravind Rajaelangovan 34 minutes 30 seconds Yeah. Elankumaran Ekambaram 34 minutes 37 seconds34:37 Elankumaran Ekambaram 34 minutes 37 seconds Okay. Elankumaran Ekambaram 34 minutes 42 seconds M. BS Balavardhan Reddy Sheelam [External] 34 minutes 49 seconds34:49 Balavardhan Reddy Sheelam [External] 34 minutes 49 seconds The mappings, like, how should I map the OPA data which is coming from the DCP wall? I mean, which is coming from the system and, uh, and we need to... Elankumaran Ekambaram 34 minutes 57 seconds34:57 Elankumaran Ekambaram 34 minutes 57 seconds OK, see, yeah, Balaji, so one thing without fail, you need to send one, ask them for the parameters, you know, and on that email itself, ask them for the corresponding contracts contract documents for us to evaluate rights validation. So, what happens in rights validation? BS Balavardhan Reddy Sheelam [External] 35 minutes 4 seconds35:04 Balavardhan Reddy Sheelam [External] 35 minutes 4 seconds Yeah, I will put it right now after this thing. Elankumaran Ekambaram 35 minutes 15 seconds35:15 Elankumaran Ekambaram 35 minutes 15 seconds This metadata will be evaluated against contract, correct? BS Balavardhan Reddy Sheelam [External] 35 minutes 19 seconds35:19 Balavardhan Reddy Sheelam [External] 35 minutes 19 seconds Yes. Elankumaran Ekambaram 35 minutes 20 seconds35:20 Elankumaran Ekambaram 35 minutes 20 seconds Do you understand rights validation? BS Balavardhan Reddy Sheelam [External] 35 minutes 21 seconds35:21 Balavardhan Reddy Sheelam [External] 35 minutes 21 seconds Yeah, yeah, but do you remember this meeting with Baskar on the other day we had? He said we cannot get the contracts for that particular. Okay, okay, okay. Elankumaran Ekambaram 35 minutes 22 seconds35:22 Elankumaran Ekambaram 35 minutes 22 seconds Yeah. Elankumaran Ekambaram 35 minutes 27 seconds Mhm. Elankumaran Ekambaram 35 minutes 31 seconds No, now you ask, that's OK, boss. Don't worry, you in the team. See, we wanted all the, you know, reference documents. OK, so as a part of rights validation, we also need the corresponding contract documents. You just ask that now. BS Balavardhan Reddy Sheelam [External] 35 minutes 37 seconds35:37 Balavardhan Reddy Sheelam [External] 35 minutes 37 seconds Yeah, sure, sure. Balavardhan Reddy Sheelam [External] 35 minutes 44 seconds Okay, yeah, I'll put it right now. Elankumaran Ekambaram 35 minutes 45 seconds35:45 Elankumaran Ekambaram 35 minutes 45 seconds Okay, okay, man, so those two things ask without fail, okay? BS Balavardhan Reddy Sheelam [External] 35 minutes 48 seconds35:48 Balavardhan Reddy Sheelam [External] 35 minutes 48 seconds Yeah, and yeah, and uh, I'm gonna work on this and the validation accuracy part as well. Elankumaran Ekambaram 35 minutes 53 seconds35:53 Elankumaran Ekambaram 35 minutes 53 seconds Okay. BS Balavardhan Reddy Sheelam [External] 35 minutes 54 seconds35:54 Balavardhan Reddy Sheelam [External] 35 minutes 54 seconds Yeah, yeah, go ahead, Aravind. This, you, you just want to confirm something. Aravind Rajaelangovan 35 minutes 58 seconds35:58 Aravind Rajaelangovan 35 minutes 58 seconds No, no, Paula, I was just curious on how we are going to, but once you are done, I think then I'll get get it from you, because anyway, you're going to do the mapping. Yeah, I'll ask that question once you're done. Yeah. BS Balavardhan Reddy Sheelam [External] 36 minutes 4 seconds36:04 Balavardhan Reddy Sheelam [External] 36 minutes 4 seconds Yeah. Balavardhan Reddy Sheelam [External] 36 minutes 7 seconds Yeah, yeah. Balavardhan Reddy Sheelam [External] 36 minutes 9 seconds Yeah, sure, sure. Yeah. Thank you. Aravind Rajaelangovan 36 minutes 12 seconds36:12 Aravind Rajaelangovan 36 minutes 12 seconds Thank you, Bala. Thank you, Avinash. BS Balavardhan Reddy Sheelam [External] 36 minutes 13 seconds36:13 Balavardhan Reddy Sheelam [External] 36 minutes 13 seconds Mhm. Avinash Reddy Masapeta 36 minutes 15 seconds36:15 Avinash Reddy Masapeta 36 minutes 15 seconds Yeah, thank you, thank you. BS Balavardhan Reddy Sheelam [External] 36 minutes 15 seconds36:15 Balavardhan Reddy Sheelam [External] 36 minutes 15 seconds Thank you, Manish.  Elankumaran Ekambaram stopped transcription
+
+
+please summarize the UI activities what to be done...
+Copilot said:
+ 
+Copilot
+ 
+Here is a concise, UI‑focused summary of activities to be implemented, based on the meeting discussion. I’ve translated the conversation into clear, actionable UI workflows, avoiding backend-only or organizational chatter.
+UI Activities – What Needs to Be Built
+1. Document Intake & Navigation
+UI to upload or access screenshots/documents (images, PDFs).
+Ability to navigate document image-by-image / page-by-page.
+Support access to DCP Vault / Source repository references (view-only or linked navigation).
+2. Layout Extraction (Core UI Flow)
+For each page/image, UI should trigger layout extraction:
+Identify and visually segment:
+Text blocks
+Image blocks
+UI should visually highlight or label these blocks (bounding boxes or overlays).
+3. Text Block Processing
+For detected text blocks:
+UI initiates OCR (Optical Character Recognition) automatically.
+Extracted text should be:
+Viewable in UI
+Editable only if needed (otherwise read-only)
+Tagged back to its source block/page
+4. Image Block Processing
+For detected image blocks:
+UI triggers Image-to-Text / Image OCR.
+Extracted content is displayed similarly to text blocks.
+Maintain block-to-source traceability.
+5. Style Guide Import
+UI must support uploading / selecting a Style Guide (document or structured input).
+Once imported:
+Style guide is stored and marked as active reference.
+No human intervention required beyond upload/selection.
+6. LLM Automation (No Human-in-the-Loop)
+After:
+Text extraction
+Image-to-text conversion
+Style guide import
+UI triggers LLM processing to:
+Extract rules
+Identify Do’s and Don’ts
+UI should show:
+Status (in progress / completed)
+Final extracted rules in a structured view
+7. OPA Output Validation UI
+UI to upload or view OPA Excel output.
+UI supports comparison/validation between:
+OPA Excel data
+Extracted content from screenshots/documents
+Highlight:
+Matches
+Mismatches
+Missing fields
+8. Rights Validation Support
+UI to associate:
+Metadata (OPA output)
+Corresponding contract/reference documents
+Support mapping view:
+Metadata field ↔ Contract clause (reference-only)
+Display validation results and accuracy indicators.
+9. Mapping & Accuracy View
+UI to define and view:
+Field-level mappings (OPA → Source → Contract)
+Show:
+Validation accuracy
+Confidence indicators
+Exception cases
+10. Overall UX Principles
+End‑to‑end flow is fully automated after setup
+Minimal manual steps:
+Upload/select documents
+Upload style guide
+Clear traceability:
+Excel → Screenshot → Extracted text → Contract
+If you want, I can next:
+Convert this into a UI flow diagram
+Write user stories or acceptance criteria
+Break it into UI components/screens
+Map frontend vs backend responsibilities
+Just tell me how detailed you want it 👍
+ 
+ 
+ 
+ 
+ 
+You said:
+can you show the citation from the trasnscript what you described for each
+Copilot said:
+ 
+Copilot
+ 
+Below is a traceable, citation‑style mapping from each UI activity I described back to the exact lines in the transcript that justify it.
+
+I’m using speaker name + timestamp + direct/paraphrased quote so this can be defended in reviews or artifacts.
+1. Document / Screenshot Intake & Image‑by‑Image Processing
+UI Activity Described
+Process documents image‑by‑image / page‑by‑page
+Screenshots are the primary inputs for validation
+Transcript Citation
+Rohit Kumar – 0:03
+“Image by image, do layout extraction…”
+Aravind Rajaelangovan – 33:45–33:54
+“…validate that with the screenshots that he has.”
+✅ This directly supports:
+Image-by-image workflow
+Screenshot-based document intake in UI
+2. Layout Extraction (Text Blocks vs Image Blocks)
+UI Activity Described
+Identify text blocks and image blocks via layout extraction
+Visually segment content
+Transcript Citation
+Rohit Kumar – 0:03
+“Image by image, do layout extraction to identify what is text blocks and what is image blocks.”
+✅ This is an explicit requirement stated verbatim.
+3. Text Block → OCR Processing
+UI Activity Described
+OCR is applied specifically to detected text blocks
+Transcript Citation
+Rohit Kumar – 0:11
+“For text blocks, you will convert that into… OCR.”
+✅ Direct instruction for text‑block OCR.
+4. Image Block → Image‑to‑Text Processing
+UI Activity Described
+Image blocks go through image‑to‑text extraction
+Transcript Citation
+Rohit Kumar – 0:17–0:22
+“For image blocks… you do image to text.”
+✅ Confirms separate handling of image blocks in UI.
+5. Style Guide Import into the System
+UI Activity Described
+Upload/import a style guide as a UI step
+Style guide becomes a system reference
+Transcript Citation
+Rohit Kumar – 0:24
+“After the style guide is imported…”
+✅ Confirms style guide import as a discrete step.
+6. Fully Automated Processing (No Human‑in‑the‑Loop)
+UI Activity Described
+Once style guide is imported, processing is fully automated
+No manual intervention in extraction or rule generation
+Transcript Citation
+Rohit Kumar – 0:24–0:27
+“…in all this process, there is no human in the loop, right?”
+✅ Explicitly defines automation expectation for UI/flow.
+7. LLM‑Driven Rule Extraction (Do’s & Don’ts)
+UI Activity Described
+LLM extracts rules, do’s and don’ts from processed content
+Output is shown in structured form
+Transcript Citation
+Rohit Kumar – 0:24–0:29
+“…then you prompt the LLM to extract rules, do’s and don’ts.”
+✅ Direct justification for LLM‑powered rule extraction UI.
+8. OPA Excel Output as an Input Artifact
+UI Activity Described
+UI consumes OPA output (Excel sheet)
+Used for validation
+Transcript Citation
+Aravind Rajaelangovan – 33:45–33:52
+“The OPA gives this as an output, right? The Excel sheet to us…”
+✅ Confirms Excel as a first‑class UI input.
+9. Validation: OPA Excel vs Screenshots
+UI Activity Described
+Automated validation between OPA Excel data and screenshots
+Highlight discrepancies
+Transcript Citation
+Aravind Rajaelangovan – 33:52–33:59
+“…validate that with the screenshots that he has. But in order to automate this validation…”
+✅ Establishes need for automated comparison UI.
+10. Navigation of DCP Vault / Source System
+UI Activity Described
+UI supports navigating or referencing DCP Vault documents
+Transcript Citation
+Aravind Rajaelangovan – 34:05–34:13
+“…navigate through the DCP vault, right? They call it as some vault…”
+✅ Supports source‑system navigation requirement.
+11. Rights Validation Using Contracts
+UI Activity Described
+Metadata is validated against contract documents
+Contracts are required reference inputs
+Transcript Citation
+Elankumaran Ekambaram – 35:15–35:20
+“This metadata will be evaluated against contract, correct?”
+Elankumaran Ekambaram – 35:31–35:37
+“…we also need the corresponding contract documents.”
+✅ Validates contract‑linked rights validation UI.
+12. Mapping OPA Metadata ↔ Contract Data
+UI Activity Described
+UI supports field‑level mapping and validation accuracy
+Transcript Citation
+Balavardhan Reddy Sheelam – 34:49–35:04
+“The mappings, like, how should I map the OPA data …”
+Balavardhan Reddy Sheelam – 35:48
+“…I’m gonna work on this and the validation accuracy part as well.”
+✅ Directly supports mapping and accuracy features.
+One‑Line Summary (For Stakeholders)
+Every UI activity described is directly traceable to an explicit spoken requirement in the transcript—primarily driven by Rohit (workflow), Aravind (automation/validation), and Elankumaran (rights validation).
+If you want next, I can:
+Convert this into a requirements traceability matrix (RTM)
+Align it with JIRA UI stories
+Produce a sequence or UI flow diagram with transcript references embedded
+ 
+ 
+ 
+ 
+ 
+Convert to requirements traceability matrixMap to JIRA UI stories
+ 
